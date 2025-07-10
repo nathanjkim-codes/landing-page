@@ -47,11 +47,13 @@ landing-page/
 
 ![Desktop View](./img/screenshots/desktop-view.png)
 
-```
+---
+
 ## Future Improvements
 
 - **Try adding some simple JavaScript**
   I'm just starting to learn JavaScript, so I'd like to come back and add small interactive features like:
+
   - Smooth scrolling when clicking the CTA button
   - Maybe show/hide some extra content
   - Simple button effects or hover interactions
@@ -67,4 +69,3 @@ landing-page/
 
 - **Clean up the CSS more**
   I might organize the CSS better using variables or utility classes when I get more comfortable.
-```
