@@ -192,3 +192,12 @@ header .container {
   height: auto;
   margin-bottom: 16px;
 }
+
+/* =========================
+    CTA SECTION
+========================= */
+
+.cta {
+  background-color: #ffe8cc;
+  padding: 4rem 2rem;
+}
