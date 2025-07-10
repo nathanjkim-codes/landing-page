@@ -194,10 +194,28 @@ header .container {
 }
 
 /* =========================
-    CTA SECTION
+    QUOTES SECTION
 ========================= */
 
-.cta {
-  background-color: #ffe8cc;
+.quotes {
+  background-color: #eee;
   padding: 4rem 2rem;
+}
+
+.quotes blockquote {
+  font-style: italic;
+  font-size: 1.5rem;
+  color: ##5a2e1d;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.8;
+  text-align: center;
+}
+
+.quotes cite {
+  display: block;
+  margin-top: 1.5rem;
+  font-style: normal;
+  font-weight: bold;
+  color: #c76f4e;
 }
